@@ -35,7 +35,6 @@ def game_hash
     :blocks => 1,
     :slam_dunks => 15
   },
-  }
   ]
   },
  :away => {:team_name => "", 
