@@ -61,7 +61,14 @@ def game_hash
   },
  :away => {:team_name => "", 
  :colors => [], 
- :players => [{
-   
- }]}}
+ :players => [
+   {
+    :player_name => "Jeff Adrien"
+    :number => 4
+    :shoe => 18
+    :points => 10
+    :rebounds =>
+     
+   },
+ ]}}
 end 
