@@ -4,12 +4,12 @@ def game_hash
    :players => [{
     :player_name => "Alan Anderson",
     :number => "0",
-    :points => "",
-    :rebounds => "",
-    :assists => "",
+    :shoe => "16",
+    :points => "22",
+    :rebounds => "12",
+    :assists => "12",
     :steals => "",
     :blocks => "",
-    :shoe => "",
     :slam_dunks => ""
   }]},
  :away => {:team_name => "", 
