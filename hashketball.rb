@@ -8,7 +8,8 @@ def game_hash
     :rebounds => "",
     :assists => "",
     :steals => "",
-    :block => "",
+    :blocks => "",
+    :shoe => ""
     :slam_dunks => ""
   }]},
  :away => {:team_name => "", 
