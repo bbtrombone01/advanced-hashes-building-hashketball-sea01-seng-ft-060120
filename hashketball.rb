@@ -1,7 +1,8 @@
 def game_hash
 {:home => {:team_name => "", 
   :colors => [], 
-   :players => [{
+   :players => [
+     {
     :player_name => "Alan Anderson",
     :number => 0,
     :shoe => 16,
@@ -12,10 +13,13 @@ def game_hash
     :blocks => 1,
     :slam_dunks => 1
   },
-  {:player_name => "Reggie Evans",
+  {
+    :player_name => "Reggie Evans",
+    :number => 2,
   
   
-  ]},
+  ]
+  },
  :away => {:team_name => "", 
  :colors => [], 
  :players => [{
