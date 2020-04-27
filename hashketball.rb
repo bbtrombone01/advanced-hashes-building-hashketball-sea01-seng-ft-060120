@@ -25,6 +25,9 @@ def game_hash
     :slam_dunks => 7,
   },
   {
+    :player_name => ""
+  },
+  }
   ]
   },
  :away => {:team_name => "", 
