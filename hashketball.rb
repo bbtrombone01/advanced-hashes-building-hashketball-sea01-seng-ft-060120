@@ -17,7 +17,7 @@ def game_hash
     :player_name => "Reggie Evans",
     :number => 2,
   
-  
+  }
   ]
   },
  :away => {:team_name => "", 
