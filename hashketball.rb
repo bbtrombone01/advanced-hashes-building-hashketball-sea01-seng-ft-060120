@@ -3,7 +3,7 @@ def game_hash
   :colors => [], 
    :players => [{
     :player_name => "Alan Anderson",
-    :number => "",
+    :number => "0",
     :points => "",
     :rebounds => "",
     :assists => "",
