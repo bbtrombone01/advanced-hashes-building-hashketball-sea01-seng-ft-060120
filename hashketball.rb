@@ -9,7 +9,7 @@ def game_hash
     :rebounds => 12,
     :assists => 12,
     :steals => 3,
-    :blocks => 3,
+    :blocks => 1,
     :slam_dunks => 1
   }]},
  :away => {:team_name => "", 
